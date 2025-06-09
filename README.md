@@ -1,4 +1,4 @@
-# Alarm Data Collector - Hybrid Automation Approach
+# Data Collector - Hybrid Automation Approach
 
 ## Project Overview
 
