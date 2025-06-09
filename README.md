@@ -1,5 +1,5 @@
-Alarm Data Collector - Hybrid Automation Approach
-Project Overview
+#Alarm Data Collector - Hybrid Automation Approach
+##Project Overview
 This project demonstrates a practical hybrid automation approach that combines manual interaction with automated data collection. The system uses Selenium for initial authentication (manual login) to obtain tokens/cookies, then leverages the lightweight requests library for subsequent automated data fetching.
 
 Key Innovation: Human-Automation Hybrid Workflow
